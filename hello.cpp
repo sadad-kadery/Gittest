@@ -6,5 +6,5 @@ int main()
     int a;
     cout<<"abc "<<endl;
     cin>>a;
-    cout<<"hello!!!  "<<a<<endl;
+    cout<<"hello!!! hi    "<<a<<endl;
 }
